@@ -13,7 +13,7 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 </a>
 <!-- GitHub -->
 <a href="https://github.com/paul-gilber" target="_blank">
-  <img align="left" alt="Paul Gilber | GitHub" width="40" height="40"  src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" />
+  <img align="left" style="background-color:white" alt="Paul Gilber | GitHub" width="40" height="40"  src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg"/>
 </a>
 <!-- Upwork -->
 <a href="https://www.upwork.com/freelancers/~01661e6f3b6e80ee4e" target="_blank">
@@ -60,7 +60,7 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <!-- GitHub -->
-  <a href="https://github.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" style="background-color:white" alt="github" width="40" height="40"/> </a>
   <!-- Gitlab -->
   <a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>  
   <!-- Jenkins -->
