@@ -1,6 +1,6 @@
 ### Hi there, I'm [Paul Gilber](https://www.linkedin.com/in/paul-gilber/) 👋
 
-A DevOps Engineer from [Manila](https://g.co/kgs/xmdsSW)🇵🇭
+A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 
 - 🔭 I’m currently working on my portfolio.
 - 💬 Ask me about [anything](https://github.com/paul-gilber/paul-gilber/issues).
