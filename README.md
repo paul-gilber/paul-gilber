@@ -129,6 +129,10 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <br/>
 <br/>
 
+**Github Stats:**
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-gilber&show_icons=true&include_all_commits=true&theme=dark" alt="Paul Gilber's github stats" />
+</p>
 <!--
 **paul-gilber/paul-gilber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
