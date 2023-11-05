@@ -36,12 +36,16 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <!-- Nokia -->
 <a href="https://www.linkedin.com/company/nokia/" target="_blank"><img src="https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_200_200/0/1677420438777/nokia_logo?e=1707350400&v=beta&t=P2nIuxbRU8FOLYnZ7_Q_Hl4ytUQnhieENahiMvpZNcA" alt="nokia" width="40" height="40"/></a>
 </p>
+<br/>
+<br/>
 
 **Certifications:**
 <p align="left" style="display:inline">
 <!-- Credly -->
 <a href="https://www.credly.com/users/paul-gilber.963a6cc5" target="_blank"><img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" alt="credly" width="40" height="40"/></a>
 </p>
+<br/>
+<br/>
 
 **Practices:**
 <p align="left" style="display:inline">
@@ -133,6 +137,8 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-gilber&show_icons=true&include_all_commits=true&theme=dark" alt="Paul Gilber's github stats" />
 </p>
+<br/>
+<br/>
 <!--
 **paul-gilber/paul-gilber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
