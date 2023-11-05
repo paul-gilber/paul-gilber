@@ -39,14 +39,6 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <br/>
 <br/>
 
-**Certifications:**
-<p align="left" style="display:inline">
-<!-- Credly -->
-<a href="https://www.credly.com/users/paul-gilber.963a6cc5" target="_blank"><img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" alt="credly" width="40" height="40"/></a>
-</p>
-<br/>
-<br/>
-
 **Practices:**
 <p align="left" style="display:inline">
 <!-- DevOps -->
@@ -129,6 +121,67 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>  
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
+</p>
+<br/>
+<br/>
+
+**Certifications:**
+<p align="left" style="display:inline">
+<!-- AWS Certified Solutions Architect – Associate -->
+<a href="https://www.credly.com/badges/eb46949e-4c77-4da6-a385-448b8e308804" target="_blank"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="70" height="70"/></a>
+<!-- AWS Certified Developer – Associate -->
+<a href="https://www.credly.com/badges/01ddc06c-b0c7-4e08-b7bd-eac826c51cf0" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="70" height="70"/></a>
+<!-- AWS Certified SysOps Administrator – Associate -->
+<a href="https://www.credly.com/badges/b7478c5b-ff51-4a8e-89e0-f2902561cdd1" target="_blank"><img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="70" height="70"/></a>
+<!-- AWS Certified Cloud Practitioner -->
+<a href="https://www.credly.com/badges/2e5500e0-5d95-43da-b89b-e1f926414d65" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="70" height="70"/></a>
+</p>
+
+<p align="left" style="display:inline">
+<!-- Microsoft Certified: Azure Solutions Architect Expert -->
+<a href="https://www.credly.com/badges/44056695-e65d-45a2-bc5e-c53fc7657cbc" target="_blank"><img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert" width="70" height="70"/></a>
+<!-- Microsoft Certified: Azure Fundamentals -->
+<a href="https://www.credly.com/badges/6ebcd2f5-03a2-468c-aaf2-055d4ec09370" target="_blank"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="70" height="70"/></a>
+</p>
+
+<p align="left" style="display:inline">
+<!-- Red Hat Certified Specialist in Containers and Kubernetes -->
+<a href="https://www.credly.com/badges/74c29c7a-b81b-4971-aea0-25f0f144ba65" target="_blank"><img src="https://images.credly.com/size/680x680/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png" alt="Red Hat Certified Specialist in Containers and Kubernetes" width="70" height="70"/></a>
+<!-- Red Hat Certified OpenShift Administrator -->
+<a href="https://www.credly.com/badges/db5ecd2f-887d-49d1-a712-e664bda7d01d" target="_blank"><img src="https://images.credly.com/size/680x680/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" alt="Red Hat Certified OpenShift Administrator" width="70" height="70"/></a>
+</p>
+
+<p align="left" style="display:inline">
+<!-- CKA: Certified Kubernetes Administrator -->
+<a href="https://www.credly.com/badges/986d2e02-084d-4f61-aa6a-126019472f64" target="_blank"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="70" height="70"/></a>
+<!-- CKAD: Certified Kubernetes Application Developer -->
+<a href="https://www.credly.com/badges/cccb81ca-cc93-4e49-a07a-90b06510713f" target="_blank"><img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD: Certified Kubernetes Application Developer" width="70" height="70"/></a>
+</p>
+
+<p align="left" style="display:inline">
+<!-- Architectural Thinking -->
+<a href="https://www.credly.com/badges/060c3b5e-2c65-499d-93e2-273a5cc15648" target="_blank"><img src="https://images.credly.com/size/680x680/images/e6a6d587-cc85-4e3a-9ce0-08c06677bf1b/Architectural-Thinking.png" alt="Architectural Thinking" width="70" height="70"/></a>
+<!-- Enterprise Design Thinking Practitioner -->
+<a href="https://www.credly.com/badges/ea46ff0f-2234-4feb-8830-6317be2bb80b" target="_blank"><img src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Enterprise Design Thinking Practitioner" width="70" height="70"/></a>
+<!-- IBM Automation: Compass -->
+<a href="https://www.credly.com/badges/307f0695-75f7-4ca4-b954-5f36376209e5" target="_blank"><img src="https://images.credly.com/size/680x680/images/9b150a97-28c5-44b1-9f69-7f610b3e0284/IBM_Automation_Compass.png" alt="IBM Automation: Compass" width="70" height="70"/></a>
+<!-- DevSecOps Essentials -->
+<a href="https://www.credly.com/badges/17a21665-116a-42ca-9883-0752bb5c55ca" target="_blank"><img src="https://images.credly.com/size/680x680/images/6fcae0c0-78b7-48c5-a414-5d21665b2250/DevSecOps-Essentials.png" alt="DevSecOps Essentials" width="70" height="70"/></a>
+<!-- IBM Garage Essentials -->
+<a href="https://www.credly.com/badges/dbf66516-3941-4c86-837b-bf1f1df58ae8" target="_blank"><img src="https://images.credly.com/size/680x680/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png" alt="IBM Garage Essentials" width="70" height="70"/></a>
+<!-- Docker Essentials: A Developer Introduction -->
+<a href="https://www.credly.com/badges/c092e941-b6f8-4282-bf81-dea5042a983f" target="_blank"><img src="https://images.credly.com/size/680x680/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" alt="Docker Essentials: A Developer Introduction" width="70" height="70"/></a>
+</p>
+
+<p align="left" style="display:inline">
+<!-- Disciplined Agile Senior Scrum Master (DASSM) -->
+<a href="https://www.credly.com/badges/3d24e1d8-ba52-4f59-8310-c0576a4ead9b" target="_blank"><img src="https://images.credly.com/size/680x680/images/7f24336c-35e8-4fb9-8d48-0636ee850323/DA_Senior_Scrum_Master_Badge.png" alt="Disciplined Agile Senior Scrum Master (DASSM)" width="70" height="70"/></a>
+</p>
+
+Verified by:
+<p align="left" style="display:inline">
+<!-- Credly -->
+<a href="https://www.credly.com/users/paul-gilber.963a6cc5" target="_blank"><img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" alt="credly" width="50" height="50"/></a>
 </p>
 <br/>
 <br/>
