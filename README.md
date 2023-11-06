@@ -26,6 +26,7 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 </p>
 <br/>
 <br/>
+<br/>
 
 **Companies I've worked for:**
 <p align="left" style="display:inline">
@@ -37,7 +38,6 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <a href="https://www.linkedin.com/company/nokia/" target="_blank"><img src="https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_200_200/0/1677420438777/nokia_logo?e=1707350400&v=beta&t=P2nIuxbRU8FOLYnZ7_Q_Hl4ytUQnhieENahiMvpZNcA" alt="nokia" width="40" height="40"/></a>
 </p>
 <br/>
-<br/>
 
 **Practices:**
 <p align="left" style="display:inline">
@@ -48,7 +48,6 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <!-- Twelve-Factor App -->
 <a href="https://12factor.net/" target="_blank"><img src="https://12factor.net/images/symbol.png" alt="twelve-factor-app" width="40" height="40"/></a>
 </p>
-<br/>
 <br/>
 
 **Tools:**
@@ -107,7 +106,6 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 <br/>
-<br/>
 
 **Languages:**
 <p align="left" style="display:inline">
@@ -122,7 +120,6 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
 </p>
-<br/>
 <br/>
 
 **Certifications:**
@@ -184,13 +181,11 @@ Verified by:
 <a href="https://www.credly.com/users/paul-gilber.963a6cc5" target="_blank"><img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/large_blob.png" alt="credly" width="50" height="50"/></a>
 </p>
 <br/>
-<br/>
 
 **Github Stats:**
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-gilber&show_icons=true&include_all_commits=true&theme=dark" alt="Paul Gilber's github stats" />
 </p>
-<br/>
 <br/>
 
 **Projects:**
@@ -201,7 +196,6 @@ Verified by:
 | [demoapp-frontend](https://github.com/paul-gilber/demoapp-frontend)           | Containerized Frontend Application using React with GitHub Actions Workflows     |
 | [demoapp-helm](https://github.com/paul-gilber/demoapp-helm)                   | Helm Charts for deploying demoapp to Kubernetes and OpenShift                    |
 
-<br/>
 <br/>
 
 <!--
