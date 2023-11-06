@@ -44,7 +44,7 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <!-- DevOps -->
 <a href="https://aws.amazon.com/devops/what-is-devops/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" alt="devops" width="40" height="40"/></a>
 <!-- GitOps -->
-<a href="https://opengitops.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="gitops" width="40<img" height="40"/></a>
+<a href="https://opengitops.dev/" target="_blank"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opengitops/icon/color/opengitops-icon-color.svg" alt="open-gitops" width="40<img" height="40"/></a>
 <!-- Twelve-Factor App -->
 <a href="https://12factor.net/" target="_blank"><img src="https://12factor.net/images/symbol.png" alt="twelve-factor-app" width="40" height="40"/></a>
 </p>
