@@ -19,6 +19,10 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <a href="https://www.upwork.com/freelancers/~01661e6f3b6e80ee4e" target="_blank">
 <img align="left" alt="Paul Gilber | Upwork" width="40" height="40"  src="https://www.vectorlogo.zone/logos/upwork/upwork-tile.svg" />
 </a>
+<!-- Gitlab -->
+<a href="https://gitlab.com/paul.gilber" target="_blank">
+<img align="left" alt="Paul Gilber | Gitlab" width="40" height="40"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"/>
+</a>
 <!-- StackOverflow -->
 <a href="https://stackoverflow.com/users/22839235/paul-gilber" target="_blank">
 <img align="left" alt="Paul Gilber | StackOverflow" width="40" height="40"  src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
