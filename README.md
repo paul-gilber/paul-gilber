@@ -193,12 +193,13 @@ Verified by:
 <br/>
 
 **Projects:**
-| Name                                                                       | Description                                                                      |
-|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| [devcontainer-features](https://github.com/paul-gilber/devcontainer-features) | Extra add-in features for DevContainers and CodeSpaces                           |
-| [demoapp-backend](https://github.com/paul-gilber/demoapp-backend)             | Containerized Backend Application using Spring Boot with GitHub Actions Workflows|
-| [demoapp-frontend](https://github.com/paul-gilber/demoapp-frontend)           | Containerized Frontend Application using React with GitHub Actions Workflows     |
-| [demoapp-helm](https://github.com/paul-gilber/demoapp-helm)                   | Helm Charts for deploying demoapp to Kubernetes and OpenShift                    |
+| Name                                                                                    | Description                                                                                                    |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| [devcontainer-features](https://github.com/paul-gilber/devcontainer-features)           | Extra add-in features for DevContainers and CodeSpaces                                                         |
+| [demoapp-backend](https://github.com/paul-gilber/demoapp-backend)                       | Containerized Backend Application using Spring Boot with GitHub Actions Workflows                              |
+| [demoapp-frontend](https://github.com/paul-gilber/demoapp-frontend)                     | Containerized Frontend Application using React with GitHub Actions Workflows                                   |
+| [demoapp-helm](https://github.com/paul-gilber/demoapp-helm)                             | Helm Charts for deploying demoapp to Kubernetes and OpenShift                                                  |
+| [openshift-coreos-iso-maker](https://github.com/paul-gilber/openshift-coreos-iso-maker) | Creates a bunch of coreos ISOs for OCP 4.x installs when you need to set static IPs with Vagrant and Virtualbox|
 
 <br/>
 
