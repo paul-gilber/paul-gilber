@@ -34,10 +34,10 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 
 **Companies I've worked for:**
 <p align="left" style="display:inline">
-<!-- IBM -->
-<a href="https://www.linkedin.com/company/ibm/" target="_blank"><img src="https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_200_200/0/1688684715866/ibm_logo?e=1707350400&v=beta&t=JtPkWsBz07iBQZ-VG-7UWsza59O2K7xLMSOjZeWeuD4" alt="nokia" width="40" height="40"/></a>
 <!-- ING -->
 <a href="https://www.linkedin.com/company/ing/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_200_200/0/1691398577240/ing_logo?e=1707350400&v=beta&t=rBXkjCLgdSf2Hu_0SpiAMoWWBOkyEkmL_0rEJyDs6Q0" alt="nokia" width="40" height="40"/></a>
+<!-- IBM -->
+<a href="https://www.linkedin.com/company/ibm/" target="_blank"><img src="https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_200_200/0/1688684715866/ibm_logo?e=1707350400&v=beta&t=JtPkWsBz07iBQZ-VG-7UWsza59O2K7xLMSOjZeWeuD4" alt="nokia" width="40" height="40"/></a>
 <!-- Nokia -->
 <a href="https://www.linkedin.com/company/nokia/" target="_blank"><img src="https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_200_200/0/1677420438777/nokia_logo?e=1707350400&v=beta&t=P2nIuxbRU8FOLYnZ7_Q_Hl4ytUQnhieENahiMvpZNcA" alt="nokia" width="40" height="40"/></a>
 </p>
