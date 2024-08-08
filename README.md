@@ -35,11 +35,11 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 **Companies I've worked for:**
 <p align="left" style="display:inline">
 <!-- ING -->
-<a href="https://www.linkedin.com/company/ing/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_200_200/0/1691398577240/ing_logo?e=1707350400&v=beta&t=rBXkjCLgdSf2Hu_0SpiAMoWWBOkyEkmL_0rEJyDs6Q0" alt="nokia" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/company/ing/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E0BAQFtKZ0GgYZcbQ/company-logo_200_200/0/1721305788771/ing_logo?e=1730937600&v=beta&t=HvuNvUZt-nWIPMEvXgGUMT5tZoWvcOz-w9p6mFrsTBo" alt="ing" width="40" height="40"/></a>
 <!-- IBM -->
-<a href="https://www.linkedin.com/company/ibm/" target="_blank"><img src="https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_200_200/0/1688684715866/ibm_logo?e=1707350400&v=beta&t=JtPkWsBz07iBQZ-VG-7UWsza59O2K7xLMSOjZeWeuD4" alt="nokia" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/company/ibm/" target="_blank"><img src="https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_200_200/0/1688684715866/ibm_logo?e=1730937600&v=beta&t=_NzhJw4ynboCUCmZE4uMuPtVAa2JpNcrjx3DDOTdHlo" alt="ibm" width="40" height="40"/></a>
 <!-- Nokia -->
-<a href="https://www.linkedin.com/company/nokia/" target="_blank"><img src="https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_200_200/0/1677420438777/nokia_logo?e=1707350400&v=beta&t=P2nIuxbRU8FOLYnZ7_Q_Hl4ytUQnhieENahiMvpZNcA" alt="nokia" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/company/nokia/" target="_blank"><img src="https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_200_200/0/1677420439270/nokia_logo?e=1730937600&v=beta&t=Culyv2EXgKkRk2DQE2Ri6Mn8gRkUQl-ClizOZImZIks" alt="nokia" width="40" height="40"/></a>
 </p>
 <br/>
 
@@ -165,7 +165,7 @@ A DevOps Engineer from [Manila, Philippines](https://g.co/kgs/xmdsSW)
 <!-- Enterprise Design Thinking Practitioner -->
 <a href="https://www.credly.com/badges/ea46ff0f-2234-4feb-8830-6317be2bb80b" target="_blank"><img src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Enterprise Design Thinking Practitioner" width="70" height="70"/></a>
 <!-- IBM Automation: Compass -->
-<a href="https://www.credly.com/badges/307f0695-75f7-4ca4-b954-5f36376209e5" target="_blank"><img src="https://images.credly.com/size/680x680/images/9b150a97-28c5-44b1-9f69-7f610b3e0284/IBM_Automation_Compass.png" alt="IBM Automation: Compass" width="70" height="70"/></a>
+<a href="https://www.credly.com/badges/307f0695-75f7-4ca4-b954-5f36376209e5" target="_blank"><img src="https://images.credly.com/size/680x680/images/34d550f8-8478-4b71-b7ab-91dd3642932e/image.png" alt="IBM Automation: Compass" width="70" height="70"/></a>
 <!-- DevSecOps Essentials -->
 <a href="https://www.credly.com/badges/17a21665-116a-42ca-9883-0752bb5c55ca" target="_blank"><img src="https://images.credly.com/size/680x680/images/6fcae0c0-78b7-48c5-a414-5d21665b2250/DevSecOps-Essentials.png" alt="DevSecOps Essentials" width="70" height="70"/></a>
 <!-- IBM Garage Essentials -->
